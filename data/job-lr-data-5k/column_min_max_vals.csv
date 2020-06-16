@@ -1,0 +1,14 @@
+name,min,max,cardinality,num_unique_values
+movie_info_idx.info_type_id,99.0,113.0,1380035,5
+movie_companies.company_type_id,1.0,2.0,2609129,2
+title.imdb_index,1.0,25.0,2528312,25
+title.kind_id,1.0,2010.0,2528312,7
+title.production_year,1880.0,2019.0,2528312,132
+title.phonetic_code,1.0,23259.0,2528312,23259
+title.season_nr,1.0,2013.0,2528312,96
+title.episode_nr,1.0,91821.0,2528312,14906
+title.series_years,1.0,1408.0,2528312,1408
+cast_info.nr_order,0.0,1115798165.0,36244344,1094
+cast_info.role_id,1.0,11.0,36244344,11
+movie_keyword.keyword_id,1.0,134170.0,4523930,134170
+movie_info.info_type_id,1.0,110.0,14835720,71
